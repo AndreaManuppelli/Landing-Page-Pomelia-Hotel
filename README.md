@@ -1,5 +1,5 @@
 # Landing Page Priemxlex.css
 
-![alt text](https://sksinn.com/uploads/slider/Untitled%20design%20(2).gif?raw=true)
+![alt text](https://raw.githubusercontent.com/AndreaManuppelli/Landing-Page-Pomelia-Hotel/main/assets/img/docs/preview.png?raw=true)
 
 
